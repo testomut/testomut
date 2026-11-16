@@ -23,6 +23,7 @@
 📁 API testing
 │  └─ api-test-agent ...................... CLI: OpenAPI audit + generated Playwright API tests
 📁 AI builds .............................. testomut/ai-builds
+│  ├─ claude-skills ....................... skills that make an AI agent write tests in my style
 │  ├─ seo-serp-mvp ........................ daily SERP tracking with LLM site labelling
 │  └─ api-test-agent ...................... AI-assisted test generation (see API testing)
 📁 Demo apps
@@ -35,7 +36,7 @@
 | Playwright · Python | [python-playwright-qa-framework](https://github.com/testomut/playwright/tree/main/python/python-playwright-qa-framework) |
 | Cypress | [PixiJsE2ECypress](https://github.com/testomut/PixiJsE2ECypress) · [WikiAutoTestsCypress](https://github.com/testomut/WikiAutoTestsCypress) |
 | API testing | [api-test-agent](https://github.com/testomut/api-test-agent) |
-| AI builds | [ai-builds](https://github.com/testomut/ai-builds) · [seo-serp-mvp](https://github.com/testomut/seo-serp-mvp) · [api-test-agent](https://github.com/testomut/api-test-agent) |
+| AI builds | [ai-builds](https://github.com/testomut/ai-builds) · [claude-skills](https://github.com/testomut/ai-builds/tree/main/claude-skills) · [seo-serp-mvp](https://github.com/testomut/ai-builds/tree/main/seo-serp-mvp) · [api-test-agent](https://github.com/testomut/api-test-agent) |
 | Demo apps | [pixijs-e2e-testing-demo](https://github.com/testomut/pixijs-e2e-testing-demo) ([live](https://pixijs-e2e-testing-demo.vercel.app/)) |
 
 ### Writing
