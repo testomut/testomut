@@ -7,15 +7,15 @@
 ### Projects
 
 ```text
-📁 Playwright ............................. testomut/playwright
-│  ├─ 📁 js/ (TypeScript)
+📁 Playwright
+│  ├─ 📁 TypeScript
 │  │    ├─ playwrightQaseTests ............ framework architecture: Page Objects, fixtures, API setup, Qase
 │  │    ├─ PixiJsE2EPlaywright ............ E2E for a Canvas / Pixi.js game
 │  │    ├─ CasinoAutoOauthPlaywright ...... authentication flows
 │  │    ├─ WikiAutoTestsPlaywright ........ Wikipedia scenarios (pair of the Cypress project)
 │  │    ├─ allright-qa-automation ......... registration and trial-lesson booking flow
 │  │    └─ wikipedia-language-aqa ......... UI + MediaWiki API check, Docker
-│  └─ 📁 python/
+│  └─ 📁 Python
 │       └─ python-playwright-qa-framework . pytest, layered fixtures, Pydantic, xdist isolation
 📁 Cypress
 │  ├─ PixiJsE2ECypress .................... Canvas / Pixi.js game, Cypress counterpart
@@ -34,8 +34,8 @@
 
 | Area | Repository |
 |---|---|
-| Playwright · TypeScript | [playwrightQaseTests](https://github.com/testomut/playwright/tree/main/js/playwrightQaseTests) · [PixiJsE2EPlaywright](https://github.com/testomut/playwright/tree/main/js/PixiJsE2EPlaywright) · [CasinoAutoOauthPlaywright](https://github.com/testomut/playwright/tree/main/js/CasinoAutoOauthPlaywright) · [WikiAutoTestsPlaywright](https://github.com/testomut/playwright/tree/main/js/WikiAutoTestsPlaywright) · [allright-qa-automation](https://github.com/testomut/playwright/tree/main/js/allright-qa-automation) · [wikipedia-language-aqa](https://github.com/testomut/playwright/tree/main/js/wikipedia-language-aqa) |
-| Playwright · Python | [python-playwright-qa-framework](https://github.com/testomut/playwright/tree/main/python/python-playwright-qa-framework) |
+| Playwright · TypeScript | [playwrightQaseTests](https://github.com/testomut/playwrightQaseTests) · [PixiJsE2EPlaywright](https://github.com/testomut/PixiJsE2EPlaywright) · [CasinoAutoOauthPlaywright](https://github.com/testomut/CasinoAutoOauthPlaywright) · [WikiAutoTestsPlaywright](https://github.com/testomut/WikiAutoTestsPlaywright) · [allright-qa-automation](https://github.com/testomut/allright-qa-automation) · [wikipedia-language-aqa](https://github.com/testomut/wikipedia-language-aqa) |
+| Playwright · Python | [python-playwright-qa-framework](https://github.com/testomut/python-playwright-qa-framework) |
 | Cypress | [PixiJsE2ECypress](https://github.com/testomut/PixiJsE2ECypress) · [WikiAutoTestsCypress](https://github.com/testomut/WikiAutoTestsCypress) |
 | API testing | [api-test-agent](https://github.com/testomut/api-test-agent) |
 | Data quality | [etl-data-quality-tests](https://github.com/testomut/etl-data-quality-tests) |
