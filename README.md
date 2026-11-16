@@ -1,6 +1,6 @@
 ## Stanislav Mokshyn · Senior QA Automation Engineer / SDET · AI builder
 
-12+ years in QA, 7+ in test automation · Playwright (TypeScript, Python), Cypress, API testing, CI/CD · I also build tools and automations with LLMs and AI coding agents
+12+ years in QA, 7+ in test automation · Playwright (TypeScript, Python), Cypress, API testing, data quality, CI/CD · I also build tools and automations with LLMs and AI coding agents
 
 [LinkedIn](https://www.linkedin.com/in/stanislavmokshinaqa) · [Medium](https://medium.com/@testdream66)
 
@@ -22,6 +22,8 @@
 │  └─ WikiAutoTestsCypress ................ Page Objects, smoke CI, reporting
 📁 API testing
 │  └─ api-test-agent ...................... CLI: OpenAPI audit + generated Playwright API tests
+📁 Data quality
+│  └─ etl-data-quality-tests .............. ELT on DuckDB, SCD2, watermarks, 66 pytest checks, GO/NO-GO gate
 📁 AI builds .............................. testomut/ai-builds
 │  ├─ claude-skills ....................... skills that make an AI agent write tests in my style
 │  ├─ seo-serp-mvp ........................ daily SERP tracking with LLM site labelling
@@ -36,6 +38,7 @@
 | Playwright · Python | [python-playwright-qa-framework](https://github.com/testomut/playwright/tree/main/python/python-playwright-qa-framework) |
 | Cypress | [PixiJsE2ECypress](https://github.com/testomut/PixiJsE2ECypress) · [WikiAutoTestsCypress](https://github.com/testomut/WikiAutoTestsCypress) |
 | API testing | [api-test-agent](https://github.com/testomut/api-test-agent) |
+| Data quality | [etl-data-quality-tests](https://github.com/testomut/etl-data-quality-tests) |
 | AI builds | [ai-builds](https://github.com/testomut/ai-builds) · [claude-skills](https://github.com/testomut/ai-builds/tree/main/claude-skills) · [seo-serp-mvp](https://github.com/testomut/ai-builds/tree/main/seo-serp-mvp) · [api-test-agent](https://github.com/testomut/api-test-agent) |
 | Demo apps | [pixijs-e2e-testing-demo](https://github.com/testomut/pixijs-e2e-testing-demo) ([live](https://pixijs-e2e-testing-demo.vercel.app/)) |
 
